@@ -6,7 +6,7 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Github from "./components/Github/Github";
-import { githubInfoLoader } from "./components/Github/Github";
+import { githubInfoLoader } from "./Loaders/githubInfoLoader";
 import Layout from "./Layout";
 
 const router = createBrowserRouter([
